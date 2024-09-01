@@ -1,0 +1,37 @@
+.chat{
+    background-color: aquamarine;
+    padding: 20px;
+    border-radius: 16px;
+    margin: 10px;
+    width: 30vw;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.msg{
+    background-color: aliceblue;
+    padding: 4px;
+    border-radius: 12px;
+    margin: 0 10px;
+}
+
+.newform{
+    width: 30vw;
+}
+.input{
+    width: 100%;
+    margin: 10px;
+}
+.btns{
+    display: flex;
+
+}
+
+.btns form{
+    margin: 0 20px;
+}
